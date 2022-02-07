@@ -1,5 +1,3 @@
-![FullStack Labs](/assets/FSL-logo-portrait.png)
-
 # HeyURL! Code Challenge
 
 This repository has been created as a code challenge for candidates with
